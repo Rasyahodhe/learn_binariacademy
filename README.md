@@ -1,6 +1,6 @@
 * How install "JSON" with "npm"
 
-	npm install -y
+	npm init -y
 
 * How install "Express" js with "npm"
 
