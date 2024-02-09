@@ -10,3 +10,7 @@
 	
 	npm install ejs
 
+* How Install depedencies without devdepedencies
+
+	npm install --omit=dev
+
